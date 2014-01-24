@@ -16,8 +16,7 @@ var app = {
     // function, we must explicity call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
-        navigator.splashscreen.hide();
-        var ref = window.open(encodeURI('http://www.busboy.co/'), '_self', 'location=yes');
+        var ref = window.open(encodeURI('http://www.busboy.co'), '_self', 'location=yes');
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
