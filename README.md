@@ -21,4 +21,4 @@
 
 * Download .zip version of repo
 * Upload to http://build.phonegap.com/apps
-* Download build and test it.
+* Download build and test
