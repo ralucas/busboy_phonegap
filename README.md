@@ -2,6 +2,11 @@
 
 > In App Browser of the web app
 
+### To-do
+1. Use Phonegap geolocation for app
+2. Make site more responsive
+3. Use device detection to alter site
+
 ## Usage
 
 ### Run Application
